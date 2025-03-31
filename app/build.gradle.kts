@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myai_assistant"
+    namespace = "com.example.MyAIassistant"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.myai_assistant"
+        applicationId = "com.example.MyAIassistant"
         minSdk = 24
         //noinspection EditedTargetSdkVersion
         targetSdk = 35
