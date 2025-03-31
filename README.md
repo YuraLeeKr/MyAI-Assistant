@@ -7,7 +7,7 @@
 ## 🗂️ Project Structure
 
 <p align="center">
-  <img src="images/architecture.png" width="100%"/>
+  <img src="Atchitecture.png" width="100%"/>
 </p>
 
 ---
