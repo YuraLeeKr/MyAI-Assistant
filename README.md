@@ -60,3 +60,17 @@
 5. App displays analysis result cards (with background color based on sentiment).
 
 ---
+## UI Highlights
+![image](https://github.com/user-attachments/assets/7f30df69-b8ed-4c8e-aaca-ee97e15f8963)
+![image](https://github.com/user-attachments/assets/26abdda1-0384-40bd-ad4c-0195f1e2c5f5)
+![image](https://github.com/user-attachments/assets/b6c7a37e-a212-4263-9f0c-db54c8bb6060)
+![image](https://github.com/user-attachments/assets/463ebd7c-ce95-4244-b6d2-b960a8a5cad8)
+![image](https://github.com/user-attachments/assets/1c353e5d-f4ac-4e30-926b-b71b72038ebc)
+![image](https://github.com/user-attachments/assets/70473468-5e1d-4a17-b0cb-2c99b8ba3e26)
+
+
+
+
+
+
+
